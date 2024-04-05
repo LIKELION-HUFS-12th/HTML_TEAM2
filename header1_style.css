@@ -1,8 +1,11 @@
 header {
-    background-image: url('drop_it_배경.jpg');
+    background-image: url('darker_back.jpg');
     background-size: cover;
     padding: 50px;
 }
+
+
+
 
 .headerRight_h {
     display: flex;
@@ -12,6 +15,10 @@ header {
     font-weight: bold;
 }
 
+.KH_menu{
+    background-color: whitesmoke; /* 배경색 */
+    color: black; /* 텍스트 색상 */
+}
 .headerInput_h {
     display: flex;
     justify-content: center;
